@@ -13,7 +13,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         // put your code here
         echo "<h3>hola</h3>";
         echo "<h3>esto va en el segundo commit</h3>";
-        echo "<h3>cambio en otro sitio</h3>";
+        echo "<h3>cambio en otro sitio x2</h3>";
 
         ?>
     </body>
